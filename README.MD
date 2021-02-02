@@ -24,7 +24,7 @@ For this tutorial, we will be using **Python 3.6.9** and  **docker** for the con
 
 
 
-## Bienvenue dans ce Tutoriel de developpemnt et mise en prod d'une API de deep learning !
+## Bienvenue dans ce Tutoriel de developpement et mise en production d'une API de deep learning !
 
 
 Ce tutoriel  comme indiqué à l'intitulé,vous accompagne dans le processus de developpement et de mise production d'une API de machine learning.
