@@ -29,7 +29,7 @@ For this tutorial, we will be using **Python 3.6.9** and  **docker** for the con
 
 Ce tutoriel  comme indiqué à l'intitulé,vous accompagne dans le processus de developpement et de mise production d'une API de machine learning.
 
-A cet effet ,si vous avez assez d'expériences en mise en production de model,ce cours ne s'adresse peut peut-être
+A cet effet ,si vous avez assez d'expériences en mise en production de modèle,ce cours ne s'adresse peut peut-être
  pas à vous.Il est tout de même néccessaire de savoir ce qu'est le machine learning(son principe de fonctionemnt même basique serait suiffisant pour comprendre ce cours).
 
 Ce tutoriel  n'étant pas specifiquement dedié au machine Learning,on ne rentrera pas en profondeur dans les détails techniques mais il existe tout de même  des cours gratuitement accessibles sur internet qui pourraient être  d'une utilité considérable dans votre apprentissage si tant est que vous souhaitez vous lancer dans monde  machine learning où  le besoin en ressources qualifiées se  fait de plus en plus ressentir .
